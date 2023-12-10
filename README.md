@@ -1,1 +1,2 @@
 # The-Perception-of-CeeDee-Lamb
+During the first half of the 2023 NFL season, Dallas Cowboys wide receiver CeeDee Lamb faced criticism for not living up to expectations of a first-round draft pick with some analysts questioning if he could be a team's #1 wide receiver.  As I started looking into Lamb's stats and trends over the course the season, I realized this was a case where perception is not reality.  One of my favorite things to do with sports analytics is use it to kill perception, which is what I did in this project.  
